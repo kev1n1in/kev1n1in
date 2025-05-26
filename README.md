@@ -36,7 +36,13 @@ proficient in  VueJS, ReactJS, Rust
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
 </a>
 
-## Backend 
+## Tools  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+  <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/n8n-14djj6nxy95fbv0dv1vg0ya.png/n8n-myok68cmangmv67irqchlo.png?_a=DATAdtXyZAA0" width="36" height="36" alt="n8n" />
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
